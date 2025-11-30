@@ -95,6 +95,11 @@ a:hover{
     padding-left: 30px;
 }
 
+body{
+    background-color:    #000306;
+    text-color:    #33ff00;
+}
+
 footer{
     width: 100%;
     position: fixed;
@@ -150,6 +155,7 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
 
