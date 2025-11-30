@@ -153,13 +153,16 @@ footer{
 
 .content input, .content textarea{
     margin-bottom: 5px;
+    background-color: #000306;
     width: 250px;
     padding: 6px;
     border: 1px solid #bbbbbb;
     border-radius: 4px;
     font-size: 14px;
+    color: #33ff00;
     box-sizing: border-box;
 }
+
 
 
 
