@@ -45,7 +45,7 @@ header h1{
 }
 
 .nav-bar a{
-    color:#8579ff;
+    color:#33ff00;
 }
 
 .nav-bar .current{
@@ -150,5 +150,6 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
