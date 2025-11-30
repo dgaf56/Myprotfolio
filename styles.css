@@ -126,7 +126,7 @@ footer{
 }
 
 .project-table td, .project-table th{
-    border: 1px dashed black;
+    border: 1px dashed #33ff00;;
     padding: 3px;
     text-align: center;
 }
@@ -160,6 +160,7 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
 
