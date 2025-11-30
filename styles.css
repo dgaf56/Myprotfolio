@@ -95,11 +95,8 @@ a:hover{
     padding-left: 30px;
 }
 Body{
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #000306;
-    padding: 10px 30px;
+}
 footer{
     width: 100%;
     position: fixed;
@@ -155,6 +152,7 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
 
