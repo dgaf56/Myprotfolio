@@ -94,9 +94,7 @@ a:hover{
     list-style-type: lower-roman;
     padding-left: 30px;
 }
-Body{
-    background-color: #000306;
-}
+
 footer{
     width: 100%;
     position: fixed;
@@ -152,6 +150,7 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
 
