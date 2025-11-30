@@ -104,7 +104,6 @@ body{
     flex: 1;
     font: 25px "Times New Roman";
     font-weight:800;
-    text-color:    #33ff00;
 }
 
 footer{
@@ -164,6 +163,7 @@ footer{
     color: #33ff00;
     box-sizing: border-box;
 }
+
 
 
 
