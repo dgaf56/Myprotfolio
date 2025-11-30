@@ -116,6 +116,8 @@ footer{
     padding-top: 10px;
     padding-bottom: 10px;
     font-size: 20px;
+    border: 1px solid #33ff00;
+    border-radius: 4px;
 }
 
 .project-table{
@@ -173,6 +175,7 @@ button {
     font-size: 22px;
     cursor: pointer;
 }
+
 
 
 
