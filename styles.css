@@ -10,6 +10,8 @@ header{
     align-items: center;
     background-color: #000306;
     padding: 10px 30px;
+    border: 1px solid #33ff00;
+    border-radius: 4px;
 
     position: sticky;
     top:0;
@@ -162,6 +164,7 @@ footer{
     color: #33ff00;
     box-sizing: border-box;
 }
+
 
 
 
