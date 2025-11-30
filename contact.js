@@ -9,8 +9,8 @@ function validateForm()
         alert("Please fill all the fields!");
     else if(num.length != 10)
         alert("Only provide a 10-digit number");
-    else if(!email.includes("gmail.com") && !email.includes("outlook.com") && !email.includes("utrgv.edu"))
-        alert("Email address should be either Gmail, Outlook or UTRGV");
+    else if(!email.includes("icloud.com") && !email.includes("outlook.com") && !email.includes("utrgv.edu"))
+        alert("Email address should be either Icloud, Outlook or UTRGV");
     else if(message.length <= 5)
         alert("Compose a longer message so I can help you better.");
     else{
@@ -20,8 +20,9 @@ function validateForm()
 
         let body = `From: ${email}\nPhone: ${num}\nMessage: ${message}\n`
 
-        let mailtolink = `mailto:divyabajaj0025@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        let mailtolink = `mailto:dannygarza56@icloud.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
         window.location.href = mailtolink;
     }
 }
+
