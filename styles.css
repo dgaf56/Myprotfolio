@@ -159,7 +159,7 @@ footer{
     background-color: #000306;
     width: 250px;
     padding: 6px;
-    border: 1px solid #bbbbbb;
+    border: 1px solid #33ff00;
     border-radius: 4px;
     font-size: 14px;
     color: #33ff00;
@@ -175,6 +175,7 @@ button {
     font-size: 22px;
     cursor: pointer;
 }
+
 
 
 
