@@ -8,7 +8,7 @@ header{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #a3d5ff;
+    background-color: #000306;
     padding: 10px 30px;
 
     position: sticky;
@@ -21,7 +21,7 @@ header{
 
 header h1{
     text-align: center;
-    color: #6879d0;
+    color: #33ff00;
     flex: 1;
     font: 50px "Times New Roman";
     font-weight:800;
@@ -99,8 +99,8 @@ footer{
     width: 100%;
     position: fixed;
     bottom: 0;
-    color: #6879d0;
-    background-color:  #a3d5ff;
+    color: #33ff00;
+    background-color:  #000306;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -150,3 +150,4 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
