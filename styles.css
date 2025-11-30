@@ -97,6 +97,11 @@ a:hover{
 
 body{
     background-color:    #000306;
+    text-align: center;
+    color: #33ff00;
+    flex: 1;
+    font: 25px "Times New Roman";
+    font-weight:800;
     text-color:    #33ff00;
 }
 
@@ -155,6 +160,7 @@ footer{
     font-size: 14px;
     box-sizing: border-box;
 }
+
 
 
 
